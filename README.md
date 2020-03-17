@@ -1,4 +1,4 @@
-# CursoNgrx
+# Ngrx: instalaciones iniciales
 
 npm install @ngrx/store
 
